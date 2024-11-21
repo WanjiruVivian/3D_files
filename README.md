@@ -2,7 +2,7 @@
 
 3D Files for 2DOF Robotic Arm used for precise accuracy and precision.
 
-![Deliverables](./assets/screenshot.png)
+![Deliverables](/assets/Capture.PNG)
 
 ## Components
 
